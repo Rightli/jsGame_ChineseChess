@@ -1,0 +1,10 @@
+<game
+    id="20131217"
+    name="象棋"
+    icon="chinesechess.png"
+    index="html/chineseChess.html"
+    maxplayers="2"
+    minplayers="2"
+    minsdk="1" >
+
+</game>
